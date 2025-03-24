@@ -1539,6 +1539,8 @@ micro_wake_word:
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
+    - model: https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords/blob/main/models/computer/computer.json
+      id: computer
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
       internal: true
